@@ -14,6 +14,7 @@ import java.util.Random;
 import java.util.Set;
 import java.util.ArrayList;
 
+// only a comment for trying git
 //a kliensek implementacioja es inditasa
 public class Client extends Thread implements SharedValues
 {
